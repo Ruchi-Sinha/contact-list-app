@@ -1,5 +1,5 @@
 # A contact-list app with CRUD functionality. 
-
+This is an app in which user can enter several contact details like name, email, phone number and save it. The contact details can be edited or deleted.
   RESTful API implemented using nodejs, expressjs, 
   mongodb( mongoose package ) 
   Front end using Angularjs
