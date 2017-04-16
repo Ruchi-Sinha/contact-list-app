@@ -1,9 +1,8 @@
-A contact-list app with CRUD functionality. 
-===========================================
+# A contact-list app with CRUD functionality. 
 
-  -RESTful API implemented using nodejs, expressjs, 
-  -mongodb( mongoose package ) 
-  -Front end using Angularjs
+  RESTful API implemented using nodejs, expressjs, 
+  mongodb( mongoose package ) 
+  Front end using Angularjs
 
 
 Entries for package.json (also available as file within the project root)
